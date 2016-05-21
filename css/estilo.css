@@ -1,0 +1,33 @@
+body {
+  margin: 0 auto;
+  background-image: url(../img/flor.png);
+}
+
+input {
+  padding: 5px;
+  background: white;
+  border-radius: 5px;
+}
+
+p {
+  text-align: center;
+  color: white;
+  height: 30px;
+
+}
+
+form {
+  padding: 30px;
+  background: white;
+  margin: 250px auto;
+  width: 350px;
+}
+
+.oi {
+  width: 270px;
+}
+
+.eoq {
+  width: 100px;
+}
+
